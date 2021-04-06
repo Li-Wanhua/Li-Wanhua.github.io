@@ -1,0 +1,6 @@
+@inproceedings{li2021meta,
+  title     = {Meta-Mining Discriminative Samples for Kinship Verification},
+  author    = {Li, Wanhua and Wang, Shiwei and Lu, Jiwen and Feng, Jianjiang and Zhou, Jie},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2021}
+}

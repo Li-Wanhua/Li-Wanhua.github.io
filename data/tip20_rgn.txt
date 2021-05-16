@@ -3,8 +3,8 @@
   journal={IEEE Transactions on Image Processing}, 
   title={Reasoning Graph Networks for Kinship Verification: from Star-shaped to Hierarchical}, 
   year={2021},
-  volume={},
+  volume={30},
   number={},
-  pages={1-1},
+  pages={4947-4961},
   doi={10.1109/TIP.2021.3077111}
 }

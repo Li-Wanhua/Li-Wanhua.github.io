@@ -1,0 +1,8 @@
+@InProceedings{Yu_2021_ICCV,
+    author    = {Yu, Bingyao and Li, Wanhua and Li, Xiu and Lu, Jiwen and Zhou, Jie},
+    title     = {Frequency-Aware Spatiotemporal Transformers for Video Inpainting Detection},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {8188-8197}
+}

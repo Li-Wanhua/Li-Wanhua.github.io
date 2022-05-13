@@ -1,4 +1,4 @@
-@article{li2020rgn,
+@article{li2021rgn,
   author={Li, Wanhua and Lu, Jiwen and Wuerkaixi, Abudukelimu and Feng, Jianjiang and Zhou, Jie},
   journal={IEEE Transactions on Image Processing}, 
   title={Reasoning Graph Networks for Kinship Verification: from Star-shaped to Hierarchical}, 

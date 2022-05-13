@@ -1,0 +1,7 @@
+@article{sun2022learning,
+  author={Sun, Hongyi and Li, Wanhua and Duan, Yueqi and Zhou, Jie and Lu, Jiwen},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Learning Adaptive Patch Generators for Mask-Robust Image Inpainting}, 
+  year={2022},
+  doi={10.1109/TMM.2022.3174413}
+}
